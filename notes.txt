@@ -1,4 +1,4 @@
-My First GitHub Project
+My First GitHub Project.
 
 This is my first text file.
 I am learning Git and GitHub.
